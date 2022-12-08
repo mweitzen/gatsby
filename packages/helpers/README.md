@@ -1,11 +1,11 @@
-# `is-odd`
+# `helpers`
 
 > TODO: description
 
 ## Usage
 
 ```
-const isOdd = require('is-odd');
+const helpers = require('helpers');
 
 // TODO: DEMONSTRATE API
 ```
