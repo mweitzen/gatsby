@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "sites/*"
+  ],
+  "scripts": {
+    "prepack": "npx lerna run test"
+  },
+  "devDependencies": {
+    "lerna": "^6.1.0"
+  }
+}
